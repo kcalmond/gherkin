@@ -20,5 +20,3 @@ This repo will deploy Gitlab, Harbor, and a demo application in order to demonst
 * DigitalOcean Account
 * A Single Domain
 * Terraform Knowledge
-
-.
